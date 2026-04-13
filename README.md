@@ -24,7 +24,7 @@
 
 - 🎓 Pursuing **MSc in Metaverse Technology** at The Hong Kong Polytechnic University (2025–2026)
 - 🤖 Passionate about **Large Language Models**, **Multimodal AI**, **Computer Vision**, and **AR/VR**
-- 🛠️ Co-Founder @ **Beijing Shawarma Tech** | ML & Full-Stack Engineer @ **New Ultra Technology**
+- 🛠️ Co-Founder @ **Beijing Shawarma Tech** | ML
 - 🏆 **Honorable Mention** — Mathematical Contest in Modeling (MCM/ICM 2023)
 - 📫 Reach me: **moonquakesyu@outlook.com**
 
