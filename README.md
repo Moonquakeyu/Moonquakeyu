@@ -9,7 +9,7 @@
   <a href="mailto:moonquakesyu@outlook.com">
     <img src="https://img.shields.io/badge/Email-moonquakesyu%40outlook.com-blue?style=flat-square&logo=microsoft-outlook" />
   </a>
-  <a href="https://www.linkedin.com/in/moonquakesyu">
+  <a href="www.linkedin.com/in/peiang-miao-72b080266">
     <img src="https://img.shields.io/badge/LinkedIn-Peiang%20Miao-0077B5?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://github.com/Moonquakesyu">
