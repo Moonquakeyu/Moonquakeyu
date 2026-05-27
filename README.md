@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Peiang (Moonquakesyu) Miao!</h1>
 
 <p align="center">
-  <em>MSc Metaverse Technology @ PolyU HK &nbsp;|&nbsp; BSc Software Engineering @ UCD & BJUT</em><br/>
+  <em>MSc Metaverse Technology @ COMP,PolyU HK &nbsp;|&nbsp; BSc Software Engineering @ UCD & BJUT</em><br/>
   <em>ML Engineer · Full-Stack Developer · Multimodal AI Researcher</em>
 </p>
 
@@ -23,8 +23,8 @@
 ## 👀 About Me
 
 - 🎓 Pursuing **MSc in Metaverse Technology** at The Hong Kong Polytechnic University (2025–2026)
-- 🤖 Passionate about **Large Language Models**, **Multimodal AI**, **Computer Vision**, and **AR/VR**
-- 🛠️ Co-Founder @ **Beijing Shawarma Tech** | ML
+- 🤖 Passionate about **Medical AI**, **Multimodal AI**, **Computer Vision**, and **Industrial AI**
+- 🛠️ Co-Founder @ **Beijing Shawarma Tech Lo Td** 
 - 🏆 **Honorable Mention** — Mathematical Contest in Modeling (MCM/ICM 2023)
 - 📫 Reach me: **moonquakesyu@outlook.com**
 
