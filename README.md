@@ -24,7 +24,8 @@
 
 - 🎓 Pursuing **MSc in Metaverse Technology** at The Hong Kong Polytechnic University (2025–2026)
 - 🤖 Passionate about **VLMs and explainable AI**, including applications in industry and medicine. 
-- 🛠️ Co-Founder @ **Beijing Shawarma Tech Lo Td** 
+- 🛠️ Co-Founder @ **Beijing Shawarma Tech Lo Td**
+- 🛠️ Remote Research Assistant @ **Shanghai Jiaotong University**
 - 🏆 **Honorable Mention** — Mathematical Contest in Modeling (MCM/ICM 2023)
 - 📫 Reach me: **moonquakesyu@outlook.com**
 
